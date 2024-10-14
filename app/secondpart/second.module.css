@@ -1,0 +1,52 @@
+.heroSection {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .header {
+    margin-bottom: 2rem;
+  }
+  
+  .header h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    color: rgb(19, 104, 110);
+    margin-bottom: 1rem;
+  }
+  
+  .header p {
+    font-size: 1.25rem;
+    color: rgb(6, 25, 26);
+  }
+  
+  .features {
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+  }
+  
+  .feature {
+    flex: 1;
+    background-color: #f9f9f9;
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .feature h3 {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+    color: #008080;
+  }
+  
+  .feature p {
+    font-size: 1rem;
+    color: #555;
+  }
+  
+  .feature img {
+    border-radius: 8px;
+  }
+  

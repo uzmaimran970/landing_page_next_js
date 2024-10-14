@@ -1,0 +1,44 @@
+
+.footer {
+  background-color: #0e4e57;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.links {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0;
+  display: flex;
+  justify-content: center;
+}
+
+.links li {
+  margin: 0 15px;
+}
+
+.links a {
+  color: white;
+  text-decoration: none;
+}
+
+.socialMedia {
+  margin-top: 10px;
+}
+
+.socialMedia a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+.socialMedia a:hover {
+  text-decoration: underline;
+}

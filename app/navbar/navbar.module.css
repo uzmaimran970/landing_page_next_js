@@ -1,0 +1,23 @@
+.navbar {
+    background-color: #008080;
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo {
+    color: rgb(243, 219, 228);
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .menu {
+    display: flex;
+    list-style: none;
+    color: aliceblue;
+  }
+  
+  .menu li {
+    margin-left: 2rem;
+  }
